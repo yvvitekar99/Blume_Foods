@@ -13,4 +13,4 @@ Technology
 We used HTML5 and CSS technology in this project.
 We used netlify to host this project.
 
-Site URL: https://benevolent-gumption-2e9809.netlify.app/
+Site URL: https://fabulous-syrniki-1736c1.netlify.app/
